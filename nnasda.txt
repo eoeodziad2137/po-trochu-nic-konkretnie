@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+	<html lang="pl-PL">
+	   <html>
+		<head>
+		   <meta charset="utf-8">
+			<title>Walidacja Stanis³aw Bogdan </title>
+	       </head>
+		<body>
+			Walidacja – w naukach technicznych i informatyce dzia³anie maj¹ce na celu potwierdzenie w sposób udokumentowany i zgodny z za³o¿eniami, ¿e procedury, procesy, urz¹dzenia, materia³y, czynnoœci i systemy rzeczywiœcie prowadz¹ do zaplanowanych wyników.<br>
+			<A HREF="index.html"> wróæ </A>
+		</body>
+</html>
